@@ -1,0 +1,17 @@
+Lingando o HTML no JS
+<script scr""></script>
+
+Boas praticas para nomes de arquivos JS ligados no html 
+script.js (relacionado ao desenvolvimento front-end)
+app.js (relacionado ao desenvolvimento de apps ou back-end)
+main.js (relacionado ao desenvolvimento de sistemas desktop)
+index.js (relacionado ao desenvolvimento back-end)
+
+______________________________________________________________________________
+Super importante!!
+DOM (Document Object Model) Modelo de objeto de documento
+-  É uma forma de JS interagir com as tags HTML
+- Usamos um ID para identificar no JS as tags
+
+document.getElementBy(rótulo) identificar as tags
+.value(pode ser usado para entrada ou saída de dados)
